@@ -2,3 +2,4 @@ iDoHelp
 - Membuat Platfrom Website mengenai helpdesk
 - Memberikan forum komentar
 - Pengerjaan Website Seminggu
+- Menambah produk barang
